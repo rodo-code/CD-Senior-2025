@@ -4,7 +4,7 @@
 
 En la figura mostrada debajo. ¿Los puntos numerados como $a$ y $b$ estan directamente conectados?
 
-![Imagen Problema A](img/image_a.png)
+<img src="img/image_a.png" alt="Imagen A" width="400"/>
 
 ## Límites
 - $1 \leq a < b \leq 10$
