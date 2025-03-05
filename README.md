@@ -7,3 +7,4 @@
 - Contraseña: cdsenior
 - [Problema A](https://github.com/rodo-code/CD-Senior-2025/blob/main/M%C3%B3dulo%201/Problemas/A.md)
 - [Problema B](https://github.com/rodo-code/CD-Senior-2025/blob/main/M%C3%B3dulo%201/Problemas/B.md)
+- [Problema C](https://github.com/rodo-code/CD-Senior-2025/blob/main/M%C3%B3dulo%201/Problemas/C.md)
