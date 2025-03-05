@@ -16,11 +16,7 @@ Encuentra el número total de nueces que toma Alvin de todos los árboles.
 - Todos los valores de entrada son enteros.
 
 ## Entrada
-La entrada esta dada desde una Entrada Estándar en el siguiente formato:
-```
-N
-$A_i$ $...$ $A_N$
-```
+La primera linea de entrada tiene a $N$, la segunda linea tiene N números $A_i$, que representan la cantidad de nueces en cada árbol. 
 
 ## Salida
 Imprime la respuesta.
