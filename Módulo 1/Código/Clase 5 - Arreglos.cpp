@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <algorithm>
 using namespace std;
 
 int main(){
@@ -13,7 +13,12 @@ int main(){
     for(int i=0;i<tam;i++){
         cin>>a[i]; // Pedimos cada elemento del arreglo
     }
+    // Ordenamos
+    sort(a, a + tam);                 // Ordena de menor a mayor (ascedente)
+    sort(a, a + tam, greater<int>()); // Ordena de mayor a menor (descendente)
+    // Complejidad del sort es O(n log n)
     // Imprimir el arreglo
+
     for(int i=0;i<tam;i++){
         cout<<a[i]<<" ";
     }
