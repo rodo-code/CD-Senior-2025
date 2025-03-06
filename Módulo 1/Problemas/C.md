@@ -1,4 +1,4 @@
-# Problema B
+# Problema C
 
 ## Enunciado del Problema 
 
